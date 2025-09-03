@@ -23,7 +23,7 @@ The focus is on applying **programming fundamentals** to solve real-world coding
 
 ## 📝 Notes  
 - Each file follows the naming convention:  
-```<platform>_<problem-name>.<ext>
+`<platform>_<problem-name>.<ext>`
 - `platform` → `leetcode`, `hackerrank`, `codeforces`, `misc`  
 - `problem-name` → lowercase, words separated by `_`  
 - `ext` → `.c` or `.cpp`  
