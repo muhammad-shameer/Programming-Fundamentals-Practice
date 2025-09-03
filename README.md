@@ -16,8 +16,8 @@ Each folder may contain example programs, notes, and multiple approaches to solv
 ---
 
 ## 🛠️ How to Run Code  
-- Most examples are written in **Python** (with some C++/Java practice).  
+- Most examples are written in **C** (with some C++ practice).  
 - Run using:  
   ```bash
-  python filename.py
+  gcc filename.c -o filename && ./filename
 
