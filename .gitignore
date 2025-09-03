@@ -1,0 +1,51 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+*.env
+.env
+
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+out/
+target/
+
+# === C/C++ ===
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# === Node.js (if you ever dabble) ===
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# === VS Code ===
+.vscode/
+.history/
+
+# === IntelliJ / JetBrains IDEs ===
+.idea/
+*.iws
+
+# === OS junk ===
+.DS_Store
+Thumbs.db
+
+# === Misc ===
+*.bak
+*.tmp
+*.swp
+
